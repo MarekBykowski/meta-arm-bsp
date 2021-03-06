@@ -12,3 +12,6 @@ kconf hardware fvp/fvp-drm.cfg
 kconf hardware fvp/fvp-timer.cfg
 kconf hardware fvp/fvp-virtio.cfg
 kconf hardware fvp/fvp-watchdog.cfg
+
+#mb:
+kconf hardware fvp/fvp-frag.cfg
